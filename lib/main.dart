@@ -10,7 +10,7 @@ void main() {
   
   runApp( 
     ChangeNotifierProvider(
-      create: (context) => Shop(),
+      create: (context) => Shop()..loadProducts(),
       child: MyApp(),
     )
   );
