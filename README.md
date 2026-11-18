@@ -21,9 +21,24 @@ This project demonstrates Pratical Flutter Development ,skills, including state 
   - REST API
   - DummyJSON
   - HTTP Package
-   ## Project Objective
+ 
+  ## Application Screenshots
 
-To develop a Flutter E-Commerce application that demonstrates REST API integration, state management, reusable widgets, and practical mobile application development.
+### Home Screen
+![Home](screenshots/home.png)
+
+### Product Search
+![Search](screenshots/search.png)
+
+### Shopping Cart
+![Cart](screenshots/cart.png)
+
+### Product Details
+![Product Details](screenshots/product_details.png)
+
+  ## Project Objective
+  
+ To develop a Flutter E-Commerce application that demonstrates REST API integration, state management, reusable widgets, and practical mobile application development.
 
 ## Developer
 
