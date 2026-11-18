@@ -29,6 +29,3 @@ To develop a Flutter E-Commerce application that demonstrates REST API integrati
 
 Mageshwaran O
 
-Flutter Developer | Mobile App Development Enthusiast
-
-GitHub: Magesh67
